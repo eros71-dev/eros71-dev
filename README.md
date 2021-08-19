@@ -1,6 +1,6 @@
 ### ayo wu t
 
-- 🍕 yo whaddup it's eros71 or just eros
+- 🍕 ay oam eros6 9
 - 🍦 ye idk
 - 💺 i pay l gmod
 - 📺 wha dis
