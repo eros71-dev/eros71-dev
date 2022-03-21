@@ -1,10 +1,4 @@
-### ayo wu t
+### Hello there!
 
-- 🍕 ay oam eros6 9
-- 🍦 ye idk
-- 💺 i pay l gmod
-- 📺 wha dis
-- 💬 i lik mario
-- 🐤 i spek spasnih
-- 👖 can i putm a bols n yo yaw
-- 🍝 samlpe txst
+Hi, I'm eros71, I usually work on HTML and CSS related stuff.
+Right now I update the sm64js site and I'm learning some Java and SQL basics.
