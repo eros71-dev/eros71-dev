@@ -1,4 +1,4 @@
 ### Welcome to City 17.
 
 Hi, I'm eros71, I usually work on HTML and CSS related stuff.
-Right now I update the sm64js site and I'm learning some Java and SQL basics.
+Right now I work on the sm64js site, and excepcionally, in the game itself too and I'm learning some Java and SQL basics.
