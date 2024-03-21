@@ -1,6 +1,6 @@
 # Welcome to City 17.
 
-Hi, I'm eros71, also known as eros744, I'm currently learning the game development basics.
+Hi, I'm eros71, also known as eros744, I'm a beginner game developer.
 I also know some Java, PHP, SQL (and the HTML, CSS, JS, the usual web app things).
 I also make some other Mario-related stuff as well.
 
