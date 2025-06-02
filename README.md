@@ -7,4 +7,7 @@ I also make original music as a hobby (and hopefully one day as a job, still wor
 
 Contributed along with the other pals in Xeno Butchers. (https://xenobutchers.itch.io/xeno-butchers)
 
-[![Eros71's GitHub stats](https://github-readme-stats.vercel.app/api?username=eros71-dev)](https://github.com/anuraghazra/github-readme-stats)
+I had some stats here before but you know what, have a smiley face instead.
+
+
+:)
